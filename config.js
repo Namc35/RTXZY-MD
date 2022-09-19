@@ -16,7 +16,7 @@ global.gopay = '6285825568781'
 
 //Name Bot & Grouplink//
 global.namebot = 'nusa][botz©'
-global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
+global.gc = 'https://chat.whatsapp.com/LmncmJOlrBGJrmXWsz8Zda'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tanpilan wm Bot //
@@ -36,7 +36,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\nusa][botz©-MD'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
