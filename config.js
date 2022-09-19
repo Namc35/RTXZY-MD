@@ -1,6 +1,6 @@
 //Ini untuk setting Bot
 //Untuk gambar background menu ada -
-//Dalam file _menunya.js
+//Dalam file _menunya.jss
 
 //『 Utama 』 //
 global.owner = ['6282xxxxxx']  // isi jika perlu
